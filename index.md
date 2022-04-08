@@ -1,2 +1,2 @@
 
-Hello, CSE 15L students! You are all awsome
+Hello, CSE 15L students! You are all awsome!
